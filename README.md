@@ -3,8 +3,8 @@ In this project, between Fire Stations and buildings in Bonn/Germany, an assignm
 ## Scenario 1
 ![scenaro1](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/scenaro1.gif)
 ## Scenario 2
-![scenaro1](https://github.com/Sefahmet/SDSS_ILP/gifs/scenaro2.gif)
+![scenaro1](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/scenaro2.gif)
 ## Scenario 3
-![scenaro1](https://github.com/Sefahmet/SDSS_ILP/gifs/scenaro3.gif)
+![scenaro1](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/scenaro3.gif)
 ## Scenario 4
-![scenaro1](https://github.com/Sefahmet/SDSS_ILP/gifs/scenaro4.gif)
+![scenaro1](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/scenaro4.gif)

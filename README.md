@@ -1,10 +1,26 @@
 # SDSS_ILP
 In this project, between Fire Stations and buildings in Bonn/Germany, an assignment with the determined constraints was carried out using different distance matrices (fastest_path, shortest_path). These results were realized by using Gurobi with the Integer Linear Programming approach.
 ## Scenario 1
-![scenaro1](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/scenaro1.gif)
+![Math_model1](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0009.jpg)
+![Math_model2](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0010.jpg)
+![Math_model3](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0011.jpg)
+![scenario1](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/scenario1.gif)
+![Math_model4](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0022.jpg)
 ## Scenario 2
-![scenaro1](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/scenaro2.gif)
+![Math_model1](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0024.jpg)
+![Math_model2](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0025.jpg)
+![Math_model3](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0026.jpg)
+![scenario2](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/scenario2.gif)
+![Math_model4](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0040.jpg)
 ## Scenario 3
-![scenaro1](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/scenaro3.gif)
+![Math_model1](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0042.jpg)
+![Math_model2](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0043.jpg)
+![Math_model3](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0044.jpg)
+![scenario3](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/scenario3.gif)
+![Math_model4](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0050.jpg)
 ## Scenario 4
-![scenaro1](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/scenaro4.gif)
+![Math_model1](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0052.jpg)
+![Math_model2](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0053.jpg)
+![Math_model3](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0054.jpg)
+![scenario4](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/scenario4.gif)
+![Math_model4](https://github.com/Sefahmet/SDSS_ILP/blob/main/gifs/SDSS_pres_page-0076.jpg)
